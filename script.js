@@ -30,10 +30,10 @@ var rowTimeBlock = document.querySelector('.container-lg px-5')
 
 //if save button clicked, set item to local storage
 $('.saveBtn').on('click', function () {
-    var text = $(this).silblings(".container-lg px-5").text();
+    var text = $(this).siblings(".container-lg px-5").text();
     var time = $(this).parent().attr('id');
 
-    localStorage.setItem(timeKey, textValue);
+    localStorage.setItem(time, text);
 });
 
 $('#hour9').text(localStorage.getItem('hour9'));
