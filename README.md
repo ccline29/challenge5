@@ -95,5 +95,17 @@ You are required to submit the following for review:
 
 * The URL of the GitHub repository, with a unique name and a README describing the project
 
+## LiveURL 
+
+* https://ccline29.github.io/Workday-Planner/
+
+## Github Repository
+
+* https://github.com/ccline29/Workday-Planner
+
+## Screenshot of URL
+
+*![Screenshot 2022-11-29 at 9 39 52 PM (2)](https://user-images.githubusercontent.com/115193125/204706541-cf0901c8-59ea-4f6c-a13c-44f7bd709e3f.png)
+
 - - -
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
