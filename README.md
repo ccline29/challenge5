@@ -27,7 +27,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ## LiveURL 
 
-* https://ccline29.github.io/Workday-Planner/
+* https://ccline29.github.io/challenge5/
 
 ## Github Repository
 
