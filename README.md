@@ -31,7 +31,7 @@ This app will run in the browser and feature dynamically updated HTML and CSS po
 
 ## Github Repository
 
-* https://github.com/ccline29/Workday-Planner
+* https://github.com/ccline29/challenge5
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
